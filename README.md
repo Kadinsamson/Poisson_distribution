@@ -64,7 +64,7 @@ else:
     print("The given data cannot be fitted in binomial distribution at 1% LOS")
 ```
 # Output :
-![image](![E2 1](https://user-images.githubusercontent.com/94525955/195507263-c17bbe34-02e0-4761-9726-9d6b0b6f9cfa.png)
+![E2 1](https://user-images.githubusercontent.com/94525955/195507263-c17bbe34-02e0-4761-9726-9d6b0b6f9cfa.png)
 
 
 # Results : 
